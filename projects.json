@@ -11,4 +11,10 @@
     "project_description": "dummy description 2",
     "project_logo": "https://logo.png"
   },
+  {
+    "id": 3,
+    "project_name": "new project",
+    "project_description": "new description",
+    "project_logo": "https://logo.png"
+  }
 ]
