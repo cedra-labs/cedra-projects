@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "project_name": "dummy project",
+    "project_description": "dummy description",
+    "project_logo": "https://logo.png"
+  },
+   {
+    "id": 2,
+    "project_name": "dummy project 2",
+    "project_description": "dummy description 2",
+    "project_logo": "https://logo.png"
+  },
+]
