@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": 1,
     "name": "example project",
     "slug": "example-project",
@@ -7,15 +7,15 @@
     "logo": "https://example-logo.png",
     "website": "https://example.com",
     "category": "example category",
-    "socials" : {
+    "socials": {
       "discord": "https://example-discord-link.com",
       "twitter": "https://example-twitter-link.com",
-      "linkedin":"https://example-linkedin-link.com",
-      "facebook":"https://example-facebook-link.com",
-      "telegram":"https://example-telegram-link.com"
+      "linkedin": "https://example-linkedin-link.com",
+      "facebook": "https://example-facebook-link.com",
+      "telegram": "https://example-telegram-link.com"
     }
   },
-   {
+  {
     "id": 2,
     "name": "example project",
     "slug": "example-project",
@@ -23,12 +23,12 @@
     "logo": "https://example-logo.png",
     "website": "https://example.com",
     "category": "example category",
-    "socials" : {
+    "socials": {
       "discord": "https://example-discord-link.com",
       "twitter": "https://example-twitter-link.com",
-      "linkedin":"https://example-linkedin-link.com",
-      "facebook":"https://example-facebook-link.com",
-      "telegram":"https://example-telegram-link.com"
+      "linkedin": "https://example-linkedin-link.com",
+      "facebook": "https://example-facebook-link.com",
+      "telegram": "https://example-telegram-link.com"
     }
   }
 ]
