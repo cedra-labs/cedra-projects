@@ -1,20 +1,23 @@
 [
   {
     "id": 1,
-    "project_name": "dummy project",
-    "project_description": "dummy description",
-    "project_logo": "https://logo.png"
+    "name": "dummy project",
+    "description": "dummy description",
+    "logo": "https://logo.png",
+    "website": "https://example.com",
+    "category": "Dex",
+    "socials" : {
+      "discord": "https://sddsf",
+      "twitter": "",
+      "linkedin":""
+    },
   },
-   {
-    "id": 2,
-    "project_name": "dummy project 2",
-    "project_description": "dummy description 2",
-    "project_logo": "https://logo.png"
-  },
-  {
-    "id": 3,
-    "project_name": "new project",
-    "project_description": "new description",
-    "project_logo": "https://logo.png"
-  }
+  "name": "dummy project",
+    "description": "dummy description",
+    "logo": "https://logo.png",
+    "website": "https://example.com",
+    "category": "Dex",
+    "socials" : {
+      "discord": ""
+    },
 ]
