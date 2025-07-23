@@ -1,7 +1,37 @@
 # cedra-projects (EN)
 ...
 ## _Contributor_
-...
+Thank you for your interest in contributing to the Cedra Projects repository!</br>
+This repository is the central place to add and manage projects built with or for the Cedra ecosystem.</br>
+All submitted projects will be displayed on the Cedra Labs website to showcase community innovation.
+### What to Contribute
+- Add a new Cedra-related project
+- Update an existing project’s metadata
+- Fix typos or improve documentation
+- Suggest improvements for project schema
+### 📂 Project Categories
+Each project must belong to one of the following categories:
+- Analytics  
+- Bridges  
+- DeFi  
+- Education  
+- Explorers  
+- Gaming  
+- Infra  
+- Launchpad  
+- Marketplaces  
+- NFT  
+- NFT Tooling  
+- On/Off Ramps  
+- Oracles  
+- Payments  
+- RPC  
+- RWA  
+- Security  
+- Social  
+- Stablecoins  
+- Tooling  
+- Wallets 
 ## _Instructions_
 Follow these steps to contribute a new project or update an existing one:
 1. Fork the Repository:
