@@ -1,9 +1,21 @@
 # cedra-projects (EN)
-...
+🚀 **Welcome to the official Cedra Projects repository!**
+
+This repository serves as a comprehensive directory of all projects building on, integrating with, or supporting the **Cedra ecosystem**. Our goal is to create a centralized hub where developers, users, and enthusiasts can discover the diverse range of applications and tools that make up the Cedra community.
+
+## 📋 Purpose
+
+- **🌟 Showcase Innovation**: Highlight the creativity and technical excellence within the Cedra ecosystem
+- **🔍 Foster Discovery**: Help users find the tools, applications, and services they need
+- **🤝 Build Community**: Connect project creators with users and potential collaborators
+- **📈 Track Growth**: Document the expanding landscape of Cedra-based solutions
+
+> **Note:** All approved projects listed in this repository are automatically featured on the [**Cedra Network website**](https://cedra.network), providing visibility and recognition for your contributions to the ecosystem.
+
+Whether you're building **DeFi protocols**, **NFT platforms**, **developer tools**, or any other **Web3 innovation** on Cedra, this is your space to share your work with the community. 
+
 ## _Contributor_
 Thank you for your interest in contributing to the Cedra Projects repository!</br>
-This repository is the central place to add and manage projects built with or for the Cedra ecosystem.</br>
-All submitted projects will be displayed on the Cedra Labs website to showcase community innovation.
 ### What to Contribute
 - Add a new Cedra-related project
 - Update an existing project’s metadata
@@ -62,9 +74,25 @@ A moderator will review your PR as soon as one becomes available.
 Thank you for contributing! 🙌
 
 # cedra-projects (UA)
-...
+
+> 🚀 **Ласкаво просимо до офіційного репозиторію Cedra Projects!**
+
+Цей репозиторій служить вичерпним каталогом усіх проєктів, що будуються на, інтегруються з або підтримують **екосистему Cedra**. Наша мета - створити централізований хаб, де розробники, користувачі та ентузіасти можуть відкривати різноманітний спектр додатків та інструментів, що складають спільноту Cedra.
+
+## 📋 Призначення
+
+- **🌟 Демонстрація інновацій**: Висвітлення креативності та технічної досконалості в екосистемі Cedra
+- **🔍 Сприяння відкриттям**: Допомога користувачам знайти необхідні інструменти, додатки та сервіси
+- **🤝 Побудова спільноти**: З'єднання творців проєктів з користувачами та потенційними колабораторами
+- **📈 Відстеження зростання**: Документування розширюючого ландшафту рішень на базі Cedra
+
+> **Примітка:** Усі схвалені проєкти, перелічені в цьому репозиторії, автоматично представлені на [**веб-сайті Cedra Network**](https://cedra.network/), забезпечуючи видимість та визнання вашого внеску в екосистему.
+
+Незалежно від того, чи ви створюєте **DeFi протоколи**, **NFT платформи**, **інструменти для розробників** або будь-які інші **Web3 інновації** на Cedra, це ваш простір для того, щоб поділитися своєю роботою зі спільнотою.
+
 ## _Contributor_
-...
+Дякуємо за вашу зацікавленість у внесенні вкладу до репозиторію Cedra Projects!</br>
+
 ## _Як додати або оновити проєкт_
 Дотримуйтесь цих кроків, щоб внести новий проєкт або оновити існуючий:
 
