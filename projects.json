@@ -17,18 +17,18 @@
   },
   {
     "id": 2,
-    "name": "example project",
-    "slug": "example-project",
-    "description": "example project description",
-    "logo": "https://example-logo.png",
-    "website": "https://example.com",
-    "category": "example category",
+    "name": "PFP3",
+    "slug": "pfp3",
+    "description": "Affordable PFP platform empowering creators with royalties and users with $1 minting.",
+    "logo": "https://drive.google.com/u/0/drive-viewer/AKGpihYhyVnEGWnnUVwpYw8n-er_tzqFsigE-Cv-TLzR1CNpXahlNzJf8H1W3hRKpzsSISQQCfJ9ys6ArDC3mKc97G0Qv_bY3JNuxRc=s2560",
+    "website": "https://pfp3.io/",
+    "category": "NFT",
     "socials": {
-      "discord": "https://example-discord-link.com",
-      "twitter": "https://example-twitter-link.com",
-      "linkedin": "https://example-linkedin-link.com",
-      "facebook": "https://example-facebook-link.com",
-      "telegram": "https://example-telegram-link.com"
+      "discord": "https://discord.gg/pfp3",
+      "twitter": "https://x.com/PFP3_",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
     }
   }
 ]
