@@ -30,5 +30,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+  "id": 3,
+  "name": "Swayzy",
+  "slug": "swayzy",
+  "description": "Swayzy is designed to reward users for promoting brands and products on social media. By sharing content and engaging with their audience, users can earn crypto currency and NFT, creating a unique way to connect social influence with cryptocurrency. It's all about turning your digital presence into real value.",
+  "logo": "https://i.postimg.cc/T27pXNv6/logo.png",
+  "website": "",
+  "category": "Marketplaces",
+  "socials": {
+    "discord": "",
+    "twitter": "https://x.com/SwayzyDev",
+    "linkedin": "",
+    "facebook": "",
+    "telegram": ""
+   }
   }
 ]
