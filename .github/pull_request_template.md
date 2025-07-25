@@ -12,9 +12,9 @@
 
 ### Contributor Checklist
 <!-- You should mark the checked relevant checkbox on each step of your PR -->
-- [ ] Are the **assignees** set?
+<!--- [ ] Are the **assignees** set?
 - [ ] Should it be in **draft**?
-- [ ] Are the **labels** set (at minimum 1)?
+- [ ] Are the **labels** set (at minimum 1)? -->
 - [ ] Has new **documentation** been added according to your changes (Poject Name, Poject Description, PR Type)?
 - [ ] Is a new **JSON** valid?
 
