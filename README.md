@@ -45,7 +45,7 @@ Each project must belong to one of the following categories:
 - Tooling  
 - Wallets 
 ## _Instructions_
-Follow these steps to contribute a new project or update an existing one:
+Follow these steps to contribute a new project or update an existing one (or check a next video: https://youtu.be/O_826vHIR8k):
 1. Fork the Repository:
     - If you already have a fork of our repository, make sure to **sync it** with the latest changes.
 2. Create a New Branch.</br>
@@ -94,7 +94,7 @@ Thank you for contributing! 🙌
 Дякуємо за вашу зацікавленість у внесенні вкладу до репозиторію Cedra Projects!</br>
 
 ## _Як додати або оновити проєкт_
-Дотримуйтесь цих кроків, щоб внести новий проєкт або оновити існуючий:
+Дотримуйтесь цих кроків, щоб внести новий проєкт або оновити існуючий (або подивіться відеоінструкцію https://youtu.be/O_826vHIR8k):
 
 1. Зробіть Fork репозиторію:</br>
     Якщо ви вже маєте fork нашого репозиторію, переконайтесь, що він **синхронізований** з останніми змінами.
