@@ -46,5 +46,21 @@
     "facebook": "",
     "telegram": ""
    }
+  },
+  {
+    "id": 4,
+    "name": "Cheeky Champs",
+    "slug": "cheeky-champs",
+    "description": "The first NFT community for traders on Cedra. Building the unique trading experience.",
+    "logo": "https://cheekychamps.io/logo.png",
+    "website": "https://cheekychamps.io/",
+    "category": "NFT",
+    "socials": {
+      "discord": "https://discord.gg/cheekychamps",
+      "twitter": "https://x.com/champs_hq",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
   }
 ]
