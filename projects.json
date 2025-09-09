@@ -62,5 +62,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 7,
+    "name": "Cedex",
+    "slug": "cedex",
+    "description": "example project description",
+    "logo": "https://i.postimg.cc/gjtcGDB6/TW-logo.png",
+    "website": "https://cedex.app",
+    "category": "DeFi",
+    "socials": {
+      "discord": "https://discord.gg/9J2VXuhm",
+      "twitter": "https://x.com/cedextrade",
+      "linkedin": "",
+      "facebook": "https://example-facebook-link.com",
+      "telegram": "https://t.me/cedextrade"
+    }
   }
 ]
