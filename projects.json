@@ -67,7 +67,7 @@
     "id": 7,
     "name": "Cedex",
     "slug": "cedex",
-    "description": "example project description",
+    "description": "Cedex is a perpetual DEX that combines the performance of centralized exchanges with DeFi's trustless architecture through our hybrid off-chain CLOB engine with on-chain finality",
     "logo": "https://i.postimg.cc/gjtcGDB6/TW-logo.png",
     "website": "https://cedex.app",
     "category": "DeFi",
