@@ -62,5 +62,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 5,
+    "name": "Walme",
+    "slug": "walme",
+    "description": "Walme brings decentralized finance, crypto cards, and Web3 banking into one secure, user-centric app. Manage your assets, pay with crypto cards, and connect through an encrypted messenger with AI insights-all in one platform.",
+    "logo": "https://github.com/walme-io/wlm-token/blob/devnet-v1/token-info/Logo_cards.jpg",
+    "website": "https://walme.io/",
+    "category": "Wallets",
+    "socials": {
+      "discord": "https://discord.gg/2Smw9qcdVU",
+      "twitter": "https://x.com/walme_io",
+      "linkedin": "https://www.linkedin.com/company/walme-io",
+      "facebook": "",
+      "telegram": "https://t.me/walmeapp"
+    }
   }
 ]
