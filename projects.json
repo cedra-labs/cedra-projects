@@ -62,5 +62,24 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 5,
+    "name": "Raters",
+    "slug": "raters",
+    "description": "Raters is a network for movie lovers to watch, rate and discuss films. Get personalized movie recommendations by connecting with users who share similar taste and discover great films immediately.",
+    "logo": "",
+    "website": "https://ratersapp.com/",
+    "category": "Social",
+    "socials": {
+      "discord": "https://discord.gg/K7msrj5TYg",
+      "twitter": "https://twitter.com/raters_app",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/RatersApp",
+      "medium": "https://medium.com/@raters",
+      "youtube": "https://www.youtube.com/@ratersapp",
+      "instagram": "https://www.instagram.com/ratersapp/"
+    }
   }
 ]
