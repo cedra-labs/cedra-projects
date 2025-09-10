@@ -32,20 +32,20 @@
     }
   },
   {
-  "id": 3,
-  "name": "Swayzy",
-  "slug": "swayzy",
-  "description": "Swayzy is designed to reward users for promoting brands and products on social media. By sharing content and engaging with their audience, users can earn crypto currency and NFT, creating a unique way to connect social influence with cryptocurrency. It's all about turning your digital presence into real value.",
-  "logo": "https://i.postimg.cc/T27pXNv6/logo.png",
-  "website": "",
-  "category": "Marketplaces",
-  "socials": {
-    "discord": "",
-    "twitter": "https://x.com/SwayzyDev",
-    "linkedin": "",
-    "facebook": "",
-    "telegram": ""
-   }
+    "id": 3,
+    "name": "Swayzy",
+    "slug": "swayzy",
+    "description": "Swayzy is designed to reward users for promoting brands and products on social media. By sharing content and engaging with their audience, users can earn crypto currency and NFT, creating a unique way to connect social influence with cryptocurrency. It's all about turning your digital presence into real value.",
+    "logo": "https://i.postimg.cc/T27pXNv6/logo.png",
+    "website": "",
+    "category": "Marketplaces",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/SwayzyDev",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
   },
   {
     "id": 4,
@@ -64,7 +64,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 5,
     "name": "Cedex",
     "slug": "cedex",
     "description": "Cedex is a perpetual DEX that combines the performance of centralized exchanges with DeFi's trustless architecture through our hybrid off-chain CLOB engine with on-chain finality",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Raters",
     "slug": "raters",
     "description": "Raters is a network for movie lovers to watch, rate and discuss films. Get personalized movie recommendations by connecting with users who share similar taste and discover great films immediately.",
@@ -97,4 +97,21 @@
       "youtube": "https://www.youtube.com/@ratersapp",
       "instagram": "https://www.instagram.com/ratersapp/"
     }
+  },
+  {
+    "id": 7,
+    "name": "Walme",
+    "slug": "walme",
+    "description": "Walme brings decentralized finance, crypto cards, and Web3 banking into one secure, user-centric app. Manage your assets, pay with crypto cards, and connect through an encrypted messenger with AI insights-all in one platform.",
+    "logo": "https://raw.githubusercontent.com/walme-io/wlm-token/refs/heads/devnet-v1/token-info/Logo_cards.jpg",
+    "website": "https://walme.io/",
+    "category": "Wallets",
+    "socials": {
+      "discord": "https://discord.gg/2Smw9qcdVU",
+      "twitter": "https://x.com/walme_io",
+      "linkedin": "https://www.linkedin.com/company/walme-io",
+      "facebook": "",
+      "telegram": "https://t.me/walmeapp"
+    }
+  }
 ]
