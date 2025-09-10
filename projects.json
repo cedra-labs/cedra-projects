@@ -62,5 +62,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 7,
+    "name": "Cedex",
+    "slug": "cedex",
+    "description": "Cedex is a perpetual DEX that combines the performance of centralized exchanges with DeFi's trustless architecture through our hybrid off-chain CLOB engine with on-chain finality",
+    "logo": "https://i.postimg.cc/gjtcGDB6/TW-logo.png",
+    "website": "https://cedex.app",
+    "category": "DeFi",
+    "socials": {
+      "discord": "https://discord.gg/9J2VXuhm",
+      "twitter": "https://x.com/cedextrade",
+      "linkedin": "",
+      "facebook": "https://example-facebook-link.com",
+      "telegram": "https://t.me/cedextrade"
+    }
   }
 ]
