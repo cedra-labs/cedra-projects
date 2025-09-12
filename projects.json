@@ -113,5 +113,19 @@
       "facebook": "",
       "telegram": "https://t.me/walmeapp"
     }
+  },
+  {
+    "id": 8,
+    "name": "BTC BOX",
+    "slug": "btcbox",
+    "description": "BTC BOX is the first physical crypto tracker designed as a sleek, branded giveaway. Unlike typical event merchandise, it’s practical, engaging, and memorable — letting users follow live Bitcoin prices on a stylish, pocket-sized device.",
+    "logo": "https://btcbox.store/wp-content/uploads/2025/02/469625820_2448405062031757_1545805889476841728_n-4.jpg",
+    "website": "https://example.com",
+    "category": "RWA",
+    "socials": {
+      "instagram": "https://www.instagram.com/btcbox.store",
+      "twitter": "https://x.com/btc_box_",
+      "telegram": "https://t.me/btcbox_insider"
+    }
   }
 ]
