@@ -127,5 +127,21 @@
       "twitter": "https://x.com/btc_box_",
       "telegram": "https://t.me/btcbox_insider"
     }
+  },
+  {
+    "id": 9,
+    "name": "Cedrascan",
+    "slug": "cedrascan",
+    "description": "Explore transactions, accounts, events, nodes, gas fees and other network activity within the Cedra Network.",
+    "logo": "https://cedrascan.com/logo-sm-tr.svg",
+    "website": "https://cedrascan.com",
+    "category": "DeFi",
+    "socials": {
+      "discord": "",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "https://x.com/cedrascan"
+    }
   }
 ]
