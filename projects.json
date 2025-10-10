@@ -143,5 +143,21 @@
       "telegram": "",
       "twitter": "https://x.com/cedrascan"
     }
+  },
+  {
+    "id": 10,
+    "name": "FarmTrust",
+    "slug": "farmtrust",
+    "description": "FarmTrust is a transparent and lightweight eco-labelling platform designed for agricultural products, built in accordance with ISO 14021 and ISO 14024 standards. The system enables producers to declare or certify the environmental attributes of their crops and record them securely on a blockchain, ensuring traceability, authenticity, and consumer confidence.",
+    "logo": "https://organicportal.in.ua/assets/logos/logo-min.png",
+    "website": "https://organicportal.in.ua/",
+    "category": "Tooling",
+    "socials": {
+      "twitter": "https://x.com/FarmTrustUA",
+      "discord": "",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
   }
 ]
