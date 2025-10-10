@@ -158,5 +158,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 11,
+    "name": "Alyra",
+    "slug": "alyra",
+    "description": "Alyra is the execution layer for on-chain apps. One API for seamless swaps & bridging across EVM, Solana and Cedra",
+    "logo": "https://drive.google.com/file/d/16TuSpeRXVHJ5BTFxi5uC1Cs4s1NPv8Gs/view?usp=sharing",
+    "website": "https://alyra.finance/",
+    "category": "Infra",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/alyrafinance",
+      "linkedin": "https://www.linkedin.com/company/alyrafi/",
+      "facebook": "",
+      "telegram": ""
+    }
   }
 ]
