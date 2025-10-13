@@ -174,5 +174,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 12,
+    "name": "PeelSwap",
+    "slug": "peelswap",
+    "description": "PeelSwap is decentralized exchange (DEX) that combines Automated Market Maker and Automated Market Taker abilities",
+    "logo": "https://peelswap.xyz/peelswap_logo.png",
+    "website": "https://peelswap.xyz",
+    "category": "DeFi",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/PeelSwap",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
   }
 ]
