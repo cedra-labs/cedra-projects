@@ -190,5 +190,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 13,
+    "name": "Zedra Wallet",
+    "slug": "zedra-wallet",
+    "description": "Zedra Wallet is a non-custodial crypto wallet designed for seamless interaction with the Cedra blockchain. It is your gateway to managing digital assets on the Cedra network.",
+    "logo": "https://i.postimg.cc/43yKDDTH/zedra-logo.jpg",
+    "website": "https://zedra.app/",
+    "category": "Wallets",
+    "socials": {
+      "discord": "https://discord.gg/hDS9qCcz",
+      "twitter": "https://x.com/ZedraWallet",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
   }
 ]
