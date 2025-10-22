@@ -206,5 +206,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 14,
+    "name": "SafeDrop",
+    "slug": "safedrop",
+    "description": "SafeDrop is the security & verification layer for airdrops.",
+    "logo": "https://i.postimg.cc/rsd2PqHt/logo-1.png",
+    "website": "https://safedrop.app/",
+    "category": "Security",
+    "socials": {
+      "discord": "https://discord.gg/jr3Mj6sSyq",
+      "twitter": "https://x.com/safedrop_app",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/SafeDropApp"
+    }
   }
 ]
