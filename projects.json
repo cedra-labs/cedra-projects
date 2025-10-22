@@ -192,35 +192,51 @@
     }
   },
   {
-  "id": 13,
-  "name": "Zedra Wallet",
-  "slug": "zedra-wallet",
-  "description": "Zedra Wallet is a non-custodial crypto wallet designed for seamless interaction with the Cedra blockchain. It is your gateway to secure transactions and easy access to the Cedra ecosystem.",
-  "logo": "https://i.postimg.cc/43yKDDTH/zedra-logo.jpg",
-  "website": "https://zedra.app/",
-  "category": "Wallets",
-  "socials": {
-    "discord": "https://discord.gg/hDS9qCczr",
-    "twitter": "https://x.com/ZedraWallet",
-    "linkedin": "",
-    "facebook": "",
-    "telegram": ""
+    "id": 13,
+    "name": "Zedra Wallet",
+    "slug": "zedra-wallet",
+    "description": "Zedra Wallet is a non-custodial crypto wallet designed for seamless interaction with the Cedra blockchain. It is your gateway to secure transactions and easy access to the Cedra ecosystem.",
+    "logo": "https://i.postimg.cc/43yKDDTH/zedra-logo.jpg",
+    "website": "https://zedra.app/",
+    "category": "Wallets",
+    "socials": {
+      "discord": "https://discord.gg/hDS9qCczr",
+      "twitter": "https://x.com/ZedraWallet",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
+  },
+  {
+    "id": 14,
+    "name": "Cedra Name Service",
+    "slug": "cedra-name-service",
+    "description": "Cedra Name Service (CNS) is the decentralized naming protocol for the Cedra blockchain, allowing users to replace complex wallet addresses with human-readable names and simplifying interactions across dApps and wallets.",
+    "logo": "https://i.postimg.cc/pXJrRTSZ/cedra-namesservice.jpg",
+    "website": "https://cedranames.xyz/",
+    "category": "Tooling",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/cedranames",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
+  },
+  {
+    "id": 15,
+    "name": "SafeDrop",
+    "slug": "safedrop",
+    "description": "SafeDrop is the security & verification layer for airdrops.",
+    "logo": "https://i.postimg.cc/rsd2PqHt/logo-1.png",
+    "website": "https://safedrop.app/",
+    "category": "Security",
+    "socials": {
+      "discord": "https://discord.gg/jr3Mj6sSyq",
+      "twitter": "https://x.com/safedrop_app",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/SafeDropApp"
+    }
   }
-},
-{
-  "id": 14,
-  "name": "Cedra Name Service",
-  "slug": "cedra-name-service",
-  "description": "Cedra Name Service (CNS) is the decentralized naming protocol for the Cedra blockchain, allowing users to replace complex wallet addresses with human-readable names and simplifying interactions across dApps and wallets.",
-  "logo": "https://i.postimg.cc/pXJrRTSZ/cedra-namesservice.jpg",
-  "website": "https://cedranames.xyz/",
-  "category": "Tooling",
-  "socials": {
-    "discord": "",
-    "twitter": "https://x.com/cedranames",
-    "linkedin": "",
-    "facebook": "",
-    "telegram": ""
-  }
-}
 ]
