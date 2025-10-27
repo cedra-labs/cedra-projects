@@ -238,5 +238,20 @@
       "facebook": "",
       "telegram": "https://t.me/SafeDropApp"
     }
+  },
+  {
+    "id": 9,
+    "name": "Nightly Wallet",
+    "slug": "nightly",
+    "description": "Nightly Wallet is a multi-chain crypto wallet built to unlock the full potential of blockchain technology. Available as a browser extension and mobile app, Nightly Wallet lets users seamlessly manage digital assets, send and swap tokens, stake crypto, view NFT’s and process transactions via QR codes. It’s compatible with Safari, Chrome, Firefox, Brave and Edge, with mobile apps for Android and iOS.",
+    "logo": "https://drive.google.com/file/d/1P-tD8rF_X12FCv4GwMiZTMvRRL_tdlae/view?usp=sharing",
+    "website": "https://nightly.app/",
+    "category": "Wallets",
+    "socials": {
+      "discord": "https://discord.com/invite/4A5PxMthBB",
+      "twitter": "https://x.com/Nightly_app",
+      "linkedin": "https://pl.linkedin.com/company/nightlyapp",
+      "telegram": "https://t.me/+0GfPnsVD3IVlYTBk"
+    }
   }
 ]
