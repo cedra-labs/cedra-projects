@@ -253,5 +253,21 @@
       "linkedin": "https://pl.linkedin.com/company/nightlyapp",
       "telegram": "https://t.me/+0GfPnsVD3IVlYTBk"
     }
+  },
+  {
+  "id": 17,
+  "name": "Avera Finance",
+  "slug": "avera",
+  "description": "The premier DeFi suite on Cedra Network",
+  "logo": "https://i.postimg.cc/4NjjbhkN/Avera-Logo-B.png",
+  "website": "https://avera.finance/",
+  "category": "Defi",
+  "socials": {
+    "discord": "",
+    "twitter": "https://x.com/avera_finance",
+    "linkedin": "",
+    "facebook": "",
+    "telegram": ""
   }
+}
 ]
