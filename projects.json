@@ -33,22 +33,6 @@
   },
   {
     "id": 3,
-    "name": "Swayzy",
-    "slug": "swayzy",
-    "description": "Swayzy is designed to reward users for promoting brands and products on social media. By sharing content and engaging with their audience, users can earn crypto currency and NFT, creating a unique way to connect social influence with cryptocurrency. It's all about turning your digital presence into real value.",
-    "logo": "https://i.postimg.cc/T27pXNv6/logo.png",
-    "website": "",
-    "category": "Marketplaces",
-    "socials": {
-      "discord": "",
-      "twitter": "https://x.com/SwayzyDev",
-      "linkedin": "",
-      "facebook": "",
-      "telegram": ""
-    }
-  },
-  {
-    "id": 4,
     "name": "Cheeky Champs",
     "slug": "cheeky-champs",
     "description": "The first NFT community for traders on Cedra. Building the unique trading experience.",
@@ -64,7 +48,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Cedex",
     "slug": "cedex",
     "description": "Cedex is a perpetual DEX that combines the performance of centralized exchanges with DeFi's trustless architecture through our hybrid off-chain CLOB engine with on-chain finality",
@@ -80,7 +64,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Raters",
     "slug": "raters",
     "description": "Raters is a network for movie lovers to watch, rate and discuss films. Get personalized movie recommendations by connecting with users who share similar taste and discover great films immediately.",
@@ -96,7 +80,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Walme",
     "slug": "walme",
     "description": "Walme brings decentralized finance, crypto cards, and Web3 banking into one secure, user-centric app. Manage your assets, pay with crypto cards, and connect through an encrypted messenger with AI insights-all in one platform.",
@@ -112,23 +96,7 @@
     }
   },
   {
-    "id": 8,
-    "name": "BTC BOX",
-    "slug": "btcbox",
-    "description": "BTC BOX is the first physical crypto tracker designed as a sleek, branded giveaway. Unlike typical event merchandise, it’s practical, engaging, and memorable — letting users follow live Bitcoin prices on a stylish, pocket-sized device.",
-    "logo": "https://btcbox.store/wp-content/uploads/2025/02/469625820_2448405062031757_1545805889476841728_n-4.jpg",
-    "website": "https://example.com",
-    "category": "RWA",
-    "socials": {
-      "discord": "https://discord.gg/2Smw9qcdVU",
-      "twitter": "https://x.com/btc_box_",
-      "linkedin": "",
-      "facebook": "",
-      "telegram": "https://t.me/btcbox_insider"
-    }
-  },
-  {
-    "id": 9,
+    "id": 7,
     "name": "Cedrascan",
     "slug": "cedrascan",
     "description": "Explore transactions, accounts, events, nodes, gas fees and other network activity within the Cedra Network.",
@@ -144,39 +112,7 @@
     }
   },
   {
-    "id": 10,
-    "name": "FarmTrust",
-    "slug": "farmtrust",
-    "description": "FarmTrust is a transparent and lightweight eco-labelling platform designed for agricultural products, built in accordance with ISO 14021 and ISO 14024 standards. The system enables producers to declare or certify the environmental attributes of their crops and record them securely on a blockchain, ensuring traceability, authenticity, and consumer confidence.",
-    "logo": "https://organicportal.in.ua/assets/logos/logo-min.png",
-    "website": "https://organicportal.in.ua/",
-    "category": "Tooling",
-    "socials": {
-      "twitter": "https://x.com/FarmTrustUA",
-      "discord": "",
-      "linkedin": "",
-      "facebook": "",
-      "telegram": ""
-    }
-  },
-  {
-    "id": 11,
-    "name": "Alyra",
-    "slug": "alyra",
-    "description": "Alyra is the execution layer for on-chain apps. One API for seamless swaps & bridging across EVM, Solana and Cedra",
-    "logo": "https://drive.google.com/file/d/16TuSpeRXVHJ5BTFxi5uC1Cs4s1NPv8Gs/view?usp=sharing",
-    "website": "https://alyra.finance/",
-    "category": "Infra",
-    "socials": {
-      "discord": "",
-      "twitter": "https://x.com/alyrafinance",
-      "linkedin": "https://www.linkedin.com/company/alyrafi/",
-      "facebook": "",
-      "telegram": ""
-    }
-  },
-  {
-    "id": 12,
+    "id": 8,
     "name": "PeelSwap",
     "slug": "peelswap",
     "description": "PeelSwap is decentralized exchange (DEX) that combines Automated Market Maker and Automated Market Taker abilities",
@@ -192,7 +128,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 9,
     "name": "Zedra Wallet",
     "slug": "zedra-wallet",
     "description": "Zedra Wallet is a non-custodial crypto wallet designed for seamless interaction with the Cedra blockchain. It is your gateway to secure transactions and easy access to the Cedra ecosystem.",
@@ -208,7 +144,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 10,
     "name": "Cedra Name Service",
     "slug": "cedra-name-service",
     "description": "Cedra Name Service (CNS) is the decentralized naming protocol for the Cedra blockchain, allowing users to replace complex wallet addresses with human-readable names and simplifying interactions across dApps and wallets.",
@@ -224,7 +160,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 11,
     "name": "SafeDrop",
     "slug": "safedrop",
     "description": "SafeDrop is the security & verification layer for airdrops.",
@@ -240,7 +176,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 12,
     "name": "Nightly Wallet",
     "slug": "nightly",
     "description": "Nightly Wallet is a multi-chain crypto wallet built to unlock the full potential of blockchain technology. Available as a browser extension and mobile app, Nightly Wallet lets users seamlessly manage digital assets, send and swap tokens, stake crypto, view NFT’s and process transactions via QR codes. It’s compatible with Safari, Chrome, Firefox, Brave and Edge, with mobile apps for Android and iOS.",
@@ -255,7 +191,7 @@
     }
   },
   {
-  "id": 17,
+  "id": 13,
   "name": "Avera Finance",
   "slug": "avera",
   "description": "The premier DeFi suite on Cedra Network",
