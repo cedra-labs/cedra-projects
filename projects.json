@@ -191,19 +191,35 @@
     }
   },
   {
-  "id": 13,
-  "name": "Avera Finance",
-  "slug": "avera",
-  "description": "The premier DeFi suite on Cedra Network",
-  "logo": "https://i.postimg.cc/4NjjbhkN/Avera-Logo-B.png",
-  "website": "https://avera.finance/",
-  "category": "Defi",
-  "socials": {
-    "discord": "",
-    "twitter": "https://x.com/avera_finance",
-    "linkedin": "",
-    "facebook": "",
-    "telegram": ""
+    "id": 13,
+    "name": "Avera Finance",
+    "slug": "avera",
+    "description": "The premier DeFi suite on Cedra Network",
+    "logo": "https://i.postimg.cc/4NjjbhkN/Avera-Logo-B.png",
+    "website": "https://avera.finance/",
+    "category": "Defi",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/avera_finance",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
+  },
+  {
+    "id": 14,
+    "name": "Lemon Bridge",
+    "slug": "lemon-bridge",
+    "description": "Lemon bridge is a native Cedra bridge. We ensure native and wrapped assets interoperability and safety with Ethereum.",
+    "logo": "",
+    "website": "",
+    "category": "Bridges",
+    "socials": {
+      "discord": "",
+      "twitter": "",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": ""
+    }
   }
-}
 ]
