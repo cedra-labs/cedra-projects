@@ -221,5 +221,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 15,
+    "name": "ApeBond",
+    "slug": "apebond",
+    "description": "ApeBond, a multi-chain bonding protocol committed to building a sustainable DeFi future for projects and communities.",
+    "logo": "https://i.postimg.cc/hGy9rB9V/apebond-symbol-purple.png",
+    "website": "https://www.ape.bond/",
+    "category": "DeFi",
+    "socials": {
+      "discord": "https://discord.com/invite/g3A5T6VSFr",
+      "twitter": "https://x.com/ApeBond",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/ape_bond"
+    }
   }
 ]
