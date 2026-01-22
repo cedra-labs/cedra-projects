@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 12,
     "name": "Cedrum",
     "slug": "cedrum-wallet",
     "description": "Cedrum is a crypto wallet built with the user in mind. We’ve combined simplicity for beginners with advanced functionality for experienced users in a single solution that runs on the fast, secure, and modern Cedra blockchain. Cedrum features a clean and intuitive interface, perfect even for those just beginning their journey in the world of crypto. At the same time, we haven’t compromised on functionality: advanced features are carefully designed and seamlessly integrated for users who expect more from their wallet.",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 1,
     "name": "Nightly Wallet",
     "slug": "nightly",
     "description": "Nightly Wallet is a multi-chain crypto wallet built to unlock the full potential of blockchain technology. Available as a browser extension and mobile app, Nightly Wallet lets users seamlessly manage digital assets, send and swap tokens, stake crypto, view NFT’s and process transactions via QR codes. It’s compatible with Safari, Chrome, Firefox, Brave and Edge, with mobile apps for Android and iOS.",
