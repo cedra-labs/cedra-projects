@@ -16,7 +16,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 14,
     "name": "PFP3",
     "slug": "pfp3",
     "description": "Affordable PFP platform empowering creators with royalties and users with $1 minting.",
@@ -32,7 +32,7 @@
     }
   },
   {
-    "id": 3,
+    "id": 15,
     "name": "Cheeky Champs",
     "slug": "cheeky-champs",
     "description": "The first NFT community for traders on Cedra. Building the unique trading experience.",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "Cedex",
     "slug": "cedex",
     "description": "Cedex is a perpetual DEX that combines the performance of centralized exchanges with DeFi's trustless architecture through our hybrid off-chain CLOB engine with on-chain finality",
@@ -64,7 +64,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 9,
     "name": "Raters",
     "slug": "raters",
     "description": "Raters is a network for movie lovers to watch, rate and discuss films. Get personalized movie recommendations by connecting with users who share similar taste and discover great films immediately.",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 10,
     "name": "Walme",
     "slug": "walme",
     "description": "Walme brings decentralized finance, crypto cards, and Web3 banking into one secure, user-centric app. Manage your assets, pay with crypto cards, and connect through an encrypted messenger with AI insights-all in one platform.",
@@ -128,7 +128,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 5,
     "name": "Zedra Wallet",
     "slug": "zedra-wallet",
     "description": "Zedra Wallet is a non-custodial crypto wallet designed for seamless interaction with the Cedra blockchain. It is your gateway to secure transactions and easy access to the Cedra ecosystem.",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 4,
     "name": "Cedra Name Service",
     "slug": "cedra-name-service",
     "description": "Cedra Name Service (CNS) is the decentralized naming protocol for the Cedra blockchain, allowing users to replace complex wallet addresses with human-readable names and simplifying interactions across dApps and wallets.",
@@ -207,7 +207,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 2,
     "name": "Razor Wallet",
     "slug": "razor-wallet",
     "description": "Razor Wallet is a non-custodial crypto wallet designed for seamless interaction with the Move based blockchains.",
@@ -223,7 +223,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 3,
     "name": "ApeBond",
     "slug": "apebond",
     "description": "ApeBond, a multi-chain bonding protocol committed to building a sustainable DeFi future for projects and communities.",
