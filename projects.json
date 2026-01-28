@@ -237,5 +237,21 @@
       "facebook": "",
       "telegram": ""
     }
+  },
+  {
+    "id": 16,
+    "name": "Mangusta",
+    "slug": "mangusta",
+    "description": "Discover, collect, and trade unique digital assets on Mangusta, the leading NFT marketplace built on the Cedra network. Fast transactions, low fees, and a seamless user experience for creators and collectors.",
+    "logo": "https://mangusta.io/logo.png",
+    "website": "https://mangusta.io/",
+    "category": "NFT",
+    "socials": {
+      "discord": "https://discord.gg/3hNKJaDYpG",
+      "twitter": "https://x.com/mangusta_io",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/mangusta_io"
+    }
   }
 ]
