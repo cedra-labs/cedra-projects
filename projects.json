@@ -101,7 +101,7 @@
     "description": "Explore transactions, accounts, events, nodes, gas fees and other network activity within the Cedra Network.",
     "logo": "https://cedrascan.com/logo-sm-tr.svg",
     "website": "https://cedrascan.com",
-    "category": "DeFi",
+    "category": "Explorer",
     "socials": {
       "discord": "",
       "linkedin": "",
