@@ -111,7 +111,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Raters",
     "slug": "raters",
     "description": "Raters is a network for movie lovers to watch, rate and discuss films. Get personalized movie recommendations by connecting with users who share similar taste and discover great films immediately.",
@@ -127,7 +127,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Walme",
     "slug": "walme",
     "description": "Walme brings decentralized finance, crypto cards, and Web3 banking into one secure, user-centric app. Manage your assets, pay with crypto cards, and connect through an encrypted messenger with AI insights-all in one platform.",
@@ -143,7 +143,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "SafeDrop",
     "slug": "safedrop",
     "description": "SafeDrop is the security & verification layer for airdrops.",
@@ -159,7 +159,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "Cedrum",
     "slug": "cedrum-wallet",
     "description": "Cedrum is a crypto wallet built with the user in mind. We’ve combined simplicity for beginners with advanced functionality for experienced users in a single solution that runs on the fast, secure, and modern Cedra blockchain. Cedrum features a clean and intuitive interface, perfect even for those just beginning their journey in the world of crypto. At the same time, we haven’t compromised on functionality: advanced features are carefully designed and seamlessly integrated for users who expect more from their wallet.",
@@ -175,7 +175,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Avera Finance",
     "slug": "avera",
     "description": "The premier DeFi suite on Cedra Network",
@@ -191,7 +191,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "PFP3",
     "slug": "pfp3",
     "description": "Affordable PFP platform empowering creators with royalties and users with $1 minting.",
@@ -207,7 +207,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Cheeky Champs",
     "slug": "cheeky-champs",
     "description": "The first NFT community for traders on Cedra. Building the unique trading experience.",
@@ -223,7 +223,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "Mangusta",
     "slug": "mangusta",
     "description": "Discover, collect, and trade unique digital assets on Mangusta, the leading NFT marketplace built on the Cedra network. Fast transactions, low fees, and a seamless user experience for creators and collectors.",
