@@ -237,5 +237,21 @@
       "facebook": "",
       "telegram": "https://t.me/mangusta_io"
     }
+  },
+  {
+    "id": 16,
+    "name": "Nova Wallet",
+    "slug": "nova-wallet",
+    "description": "A secure, next-generation non-custodial mobile cryptocurrency wallet for the Cedra Network. Manage assets, connect to dApps, and securely store your crypto with biometric access.",
+    "logo": "https://inferenco.com/assets/images/nova-wallet.png",
+    "website": "https://inferenco.com/app.html#nova-wallet",
+    "category": "Wallets",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/movenovawallet",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/inferenco"
+    }
   }
 ]
