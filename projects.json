@@ -253,5 +253,21 @@
       "facebook": "",
       "telegram": "https://t.me/inferenco"
     }
+  },
+  {
+    "id": 17,
+    "name": "MoveBit",
+    "slug": "movebit",
+    "description": "MoveBit , a sub-brand of BitsLab, is a security team focused on the Move ecosystem, building the standard and delivering security audits for secure Move ecosystem.",
+    "logo": "https://movebit.xyz/images/logo-movebit.png",
+    "website": "https://movebit.xyz",
+    "category": "Security",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/MoveBit_",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/BitsLabHQ"
+    }
   }
 ]
