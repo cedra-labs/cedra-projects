@@ -253,5 +253,21 @@
       "facebook": "",
       "telegram": "https://t.me/inferenco"
     }
+  },
+  {
+    "id": 17,
+    "name": "Monethic",
+    "slug": "monethic",
+    "description": "High quality Web2 and Web3 security firm specializing in penetration testing and smart contract audits. Experienced across multiple languages and platforms including EVM, Move, and Rust, with significant expertise in Move.",
+    "logo": "https://i.postimg.cc/jjMbrLRc/Gs11xq-J2-400x400.jpg",
+    "website": "https://monethic.io",
+    "category": "Security",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/Monethic_io",
+      "linkedin": "https://www.linkedin.com/company/monethic/",
+      "facebook": "",
+      "telegram": ""
+    }
   }
 ]
