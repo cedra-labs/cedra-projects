@@ -285,5 +285,19 @@
       "facebook": "",
       "telegram": "https://t.me/BitsLabHQ"
     }
+  },
+  {
+      "id": 19,
+      "name": "Hacken",
+      "slug": "hacken",
+      "description": "Hacken is an end-to-end blockchain security and compliance partner for digital assets.\nBorn on blockchain, we combine deep Web3 expertise with enterprise-grade quality, AI-powered offensive security, and globally recognized certifications. Since 2017, Hacken has been trusted by over 1,500 adopters, including the European Commission, ADGM, MetaMask, Ethereum Foundation, and Binance, to secure the new digital frontier.\nOur services include blockchain audits, penetration testing, proof of reserves, and CASP/VASP compliance. We also offer extended solutions like DualDefense (post-audit protection), Extractor (on-chain threat monitoring), and HackenProof (bug bounty platform).\n\nWe help organizations protect their infrastructure and meet evolving digital asset regulations with confidence.",
+      "logo": "",
+      "website": "https://hacken.io/",
+      "category": "Security",
+      "socials": {
+        "discord": "https://discord.gg/hacken",
+        "twitter": "https://x.com/intent/follow?screen_name=hackenclub",
+        "telegram": "https://t.me/hackenai"
+    }
   }
 ]
