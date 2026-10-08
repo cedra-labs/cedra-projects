@@ -315,5 +315,37 @@
       "facebook": "",
       "telegram": "https://t.me/inferenco"
     }
+  },
+  {
+    "id": 21,
+    "name": "Infer Ecosystem",
+    "slug": "infer-ecosystem",
+    "description": "Community events and on-chain games on Cedra. Explore the Inferenco Ecosystem and play at Infer Casino, featuring fully on-chain Poker (Texas Hold'em) with heads-up and multiway tables, skill games, and third-party game integrations. Connect with Infer Wallet or Infer Desk to participate in events, create and join poker tables, and enjoy provably fair on-chain gameplay.",
+    "logo": "https://app.inferenco.com/assets/brand/inferenco-flame.png",
+    "website": "https://app.inferenco.com",
+    "category": "Gaming",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/inferecosystem",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/inferenco"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Infer MCP",
+    "slug": "infer-mcp",
+    "description": "Streamable-HTTP Model Context Protocol (MCP) bridge that connects Mistral Vibe and any MCP-compatible AI client to a running Infer Desk wallet. Supports two transport modes: mTLS over loopback LAN with SPKI pinning, and Nostr DM transport for remote NAT-traversing access. Exposes 18 typed tools for connect, sign, send tokens, list sessions, manage pairings, and admin operations.",
+    "logo": "https://inferenco.com/assets/logos/infer.png",
+    "website": "https://inferenco.com/infer-mcp",
+    "category": "Tooling",
+    "socials": {
+      "discord": "",
+      "twitter": "https://x.com/inferecosystem",
+      "linkedin": "",
+      "facebook": "",
+      "telegram": "https://t.me/inferenco"
+    }
   }
 ]
